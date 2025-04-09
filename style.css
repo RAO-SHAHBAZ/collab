@@ -22,3 +22,9 @@ h2{
     padding: 20px;
     border: white 2px solid;
 }
+
+h3{
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid wheat;
+}
