@@ -28,3 +28,10 @@ h3{
     padding: 10px;
     border: 1px solid wheat;
 }
+p{
+    max-width: 600px;
+    margin-top: 20px;
+    border: white solid 1px ;
+    padding: 20px;
+
+}
